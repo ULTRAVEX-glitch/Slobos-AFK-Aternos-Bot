@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "craked-smp.servegame.com:",
+    "ip": "  craked-smp.servegame.com:40563:",
     "port": 40563,
     "version": "",
     "try-creative": false
